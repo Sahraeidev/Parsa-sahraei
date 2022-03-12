@@ -1,12 +1,13 @@
 body
 {
     margin: 0px;
+    font-family: 'Agency FB Light', Courier, monospace;
+
 }
 
 .UpperDiv
 {
     background-color: #5463FF;
-    font-family: 'Agency FB Light', Courier, monospace;
     font-size: 30px;
     text-align: center;
     color: #ECECEC;
@@ -29,4 +30,15 @@ hr
     width: 70%;
     border-width: 4px;
 
+}
+.middlediv
+{
+    padding-top: 20px;
+    background-color: #5463FF; 
+    color: #ECECEC;
+
+}
+.middletext
+{
+    text-align: center;
 }
