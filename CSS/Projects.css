@@ -5,7 +5,8 @@ body
     
 }
 .Projects
-{    
+{   
+    text-align: center;
     color: aliceblue;
     background-color: #5463FF;
     padding-right: 35px;
