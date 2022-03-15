@@ -9,6 +9,7 @@ body
     color: aliceblue;
     background-color: #5463FF;
     padding-right: 35px;
+    padding-bottom: 100px;
 }
 hr
 {
@@ -26,3 +27,21 @@ hr
     width: 100%;
 
 }
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #5463FF;
+    font-size: 20px;
+    background: #ffffff;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    display: inline;
+    
+  }
+  
+  .btn:hover {
+    background: #ffffff;
+    text-decoration: none;
+  }
