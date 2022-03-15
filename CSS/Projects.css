@@ -1,0 +1,28 @@
+body
+{
+    font-family: 'Smooch Sans', sans-serif;
+    margin: 0px;
+    
+}
+.Projects
+{    
+    color: aliceblue;
+    background-color: #5463FF;
+    padding-right: 35px;
+}
+hr
+{
+    border-style: dotted;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    width: 70%;
+    border-width: 4px;
+
+}
+.DevlogMainPics
+{
+    height: 30%;
+    width: 100%;
+
+}
