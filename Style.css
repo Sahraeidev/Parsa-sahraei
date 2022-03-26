@@ -4,7 +4,16 @@ body
     font-family: 'Smooch Sans', sans-serif;
 
 }
+hr
+{
+    border-style: dashed;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    width: 70%;
+    border-width: 8px;
 
+}
 .UpperDiv
 {
     background-color: #5463FF;
@@ -21,16 +30,7 @@ body
     margin-left: auto;
     margin-right: auto;
 }
-hr
-{
-    border-style: dotted;
-    border-bottom: 0px;
-    border-left: 0px;
-    border-right: 0px;
-    width: 70%;
-    border-width: 4px;
 
-}
 .middlediv
 {
     padding-top: 20px;
