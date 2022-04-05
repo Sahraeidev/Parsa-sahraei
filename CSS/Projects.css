@@ -14,12 +14,12 @@ body
 }
 hr
 {
-    border-style: dotted;
+    border-style:solid;
     border-bottom: 0px;
     border-left: 0px;
     border-right: 0px;
-    width: 70%;
-    border-width: 4px;
+    width: 90%;
+    border-width: 2px;
 
 }
 .DevlogMainPics
@@ -46,3 +46,13 @@ hr
     background: #ffffff;
     text-decoration: none;
   }
+.button
+{
+    text-decoration: dashed ;
+    display: inline-block;
+    margin: 100px;
+    color: #5463FF;
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+}
