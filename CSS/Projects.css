@@ -2,7 +2,7 @@ body
 {
     font-family: 'Smooch Sans', sans-serif;
     margin: 0px;
-    font-size: 30px;
+    font-size: 150%;
 }
 .Projects
 {   
@@ -34,7 +34,6 @@ hr
     border-radius: 28px;
     font-family: Arial;
     color: #5463FF;
-    font-size: 20px;
     background: #ffffff;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
