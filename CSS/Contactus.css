@@ -5,9 +5,9 @@ body
     font-size: 30px;
 
 }
-.info
+.container-fluid
 {
-    padding-left: 5%;
+    padding-left: 5%;   
     padding-right: 5%;
     color: aliceblue;
     background-color: #5463FF;
@@ -23,7 +23,9 @@ hr
     border-width: 2px;
 
 }
-.btn {
+.buttoncube {
+    margin-top: 20px;
+    margin-bottom: 20px;
     -webkit-border-radius: 28;
     -moz-border-radius: 28;
     border-radius: 28px;
