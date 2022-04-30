@@ -25,8 +25,6 @@ hr
 .DevlogMainPics
 {
     height: 50%;
-    width: 50%;
-
 }
 .btn {
     -webkit-border-radius: 28;
@@ -54,4 +52,9 @@ hr
     background-color: #ffffff;
     padding: 10px;
     border-radius: 10px;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }

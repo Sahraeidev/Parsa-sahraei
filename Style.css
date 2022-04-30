@@ -57,12 +57,13 @@ ul
 }
 .navbar {
     font-size: 100%;
-    width: 100%;
+    width: 90%;
     display: block;
     background-color: #ffffff;
     position: fixed;
     padding: 20px 20px;
-    margin-left: 2%;
+        margin-left: 2%;
+    margin-right: 2%;
     border-radius: 20px;
     margin-top: 5px;
 }
